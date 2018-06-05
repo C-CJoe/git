@@ -18,18 +18,18 @@
     [[file:~/Documents/git/org/todo.org::*Habits][Habits]]
     SCHEDULED: <2018-06-04 Mon .+1d>
     :PROPERTIES:
-:STYLE: habit
-:REPEAT_TO_STATE: TODO
-:END:
+    :STYLE:    habit
+    :REPEAT_TO_STATE: TODO
+    :END:
 
 *** TODO Bai Ci Zhan
     [2018-06-04 Mon 23:12]
     [[file:~/Documents/git/org/todo.org::*Habits][Habits]]
     SCHEDULED: <2018-06-04 Mon .+1d>
     :PROPERTIES:
-:STYLE: habit
-:REPEAT_TO_STATE: TODO
-:END:
+    :STYLE:    habit
+    :REPEAT_TO_STATE: TODO
+    :END:
 
 * Special Dates
 ** Birthdays
