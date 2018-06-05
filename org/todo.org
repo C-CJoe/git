@@ -24,7 +24,7 @@
 
 *** TODO Bai Ci Zhan
     [2018-06-04 Mon 23:12]
-    [[file:~/Documents/git/org/todo.org::*Go%20to%20bed%20earlier][Habits]]
+    [[file:~/Documents/git/org/todo.org::*Habits][Habits]]
     SCHEDULED: <2018-06-04 Mon .+1d>
     :PROPERTIES:
 :STYLE: habit
