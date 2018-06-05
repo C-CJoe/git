@@ -1,1 +1,74 @@
-* Just for testing
+* Life
+** Habits
+*** TODO Go to bed earlier
+    :LOGBOOK:
+    - State "DONE"       from "TODO"       [2018-06-04 Tue 23:59]
+    :END:
+    [2018-06-02 Sat 18:18]
+    [[file:~/Documents/git/org/todo.org::*Habits][Habits]]
+    SCHEDULED: <2018-06-05 Wed 23:00 .+1d>
+    :PROPERTIES:
+    :STYLE:    habit
+    :REPEAT_TO_STATE: TODO
+    :LAST_REPEAT: [2018-06-04 Tue 23:59]
+    :END:
+
+*** TODO Exercise
+    [2018-06-04 Mon 21:38]
+    [[file:~/Documents/git/org/todo.org::*Habits][Habits]]
+    SCHEDULED: <2018-06-04 Mon .+1d>
+    :PROPERTIES:
+:STYLE: habit
+:REPEAT_TO_STATE: TODO
+:END:
+
+*** TODO Bai Ci Zhan
+    [2018-06-04 Mon 23:12]
+    [[file:~/Documents/git/org/todo.org::*Go%20to%20bed%20earlier][Go to bed earlier]]
+    SCHEDULED: <2018-06-04 Mon .+1d>
+    :PROPERTIES:
+:STYLE: habit
+:REPEAT_TO_STATE: TODO
+:END:
+
+* Special Dates
+** Birthdays
+   :PROPERTIES:
+   :CATEGORY: Anniversary
+   :END:
+%%(org-anniversary 1999 06 03) Terry Chan's %dth birthday
+%%(org-anniversary 2001 06 04) Cai's %dth birthday
+
+* Study
+** St. Paul 2017-2018
+*** Religion
+**** TODO COEXIST                                                               :WORK:
+     DEADLINE: <2018-06-15 Fri>
+***** TODO Kosher cheese promotional advertisement
+***** TODO Aboriginal artist interpretation
+***** TODO Judaism model
+***** TODO Two songs/videos representing Christianity key teachings
+***** TODO Create a Buddhism brochure
+      - Create an illustrated cover with a logo, pictures, or symbols to represent the religion
+      - Research origin & history, sacred writings, beliefs, customs, sacred places, spread---major countries and a map showing them, colourful illustrations
+***** TODO World religion trip reflection
+      - Identify the name of each house of worship attended and discuss the practices used in each
+      - Identify three new pieces of knowledge learned from the trip
+      - Discuss the favourite place of worship and explain why
+      - Explain how the trip caused you to examine life, religion, and community and country
+***** TODO Christian community service reflection
+      - Name of the organizations volunteered
+      - The frequency of the hours obtained
+      - The duties performed
+      - The most significant experience, explain
+      - Discuss how can apply the golden rule, "Do unto other as they have done to you" to life and other community service experience
+      - What advice can offer another student who might choose this particular area of service
+*** Math
+**** DONE Daily Homework                                                        :WORK:
+     CLOSED: [2018-06-04 Mon 23:11]
+***** DONE Inverse Functions Practice
+      CLOSED: [2018-06-04 Mon 23:11]
+*** Physics
+**** Assignments                                                                :WORK:
+***** TODO Circuit Design
+      DEADLINE: <2018-06-08 Fri>
