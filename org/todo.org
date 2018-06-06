@@ -2,15 +2,16 @@
 ** Habits
 *** TODO Go to bed earlier
     :LOGBOOK:
+    - State "DONE"       from "TODO"       [2018-06-05 Tue 23:44]
     - State "DONE"       from "TODO"       [2018-06-04 Tue 23:59]
     :END:
     [2018-06-02 Sat 18:18]
     [[file:~/Documents/git/org/todo.org::*Habits][Habits]]
-    SCHEDULED: <2018-06-05 Wed 23:00 .+1d>
+    SCHEDULED: <2018-06-06 Wed 23:00 .+1d>
     :PROPERTIES:
     :STYLE:    habit
     :REPEAT_TO_STATE: TODO
-    :LAST_REPEAT: [2018-06-04 Tue 23:59]
+    :LAST_REPEAT: [2018-06-05 Tue 23:44]
     :END:
 
 *** TODO Exercise
@@ -23,12 +24,16 @@
     :END:
 
 *** TODO Bai Ci Zhan
+    :LOGBOOK:
+    - State "DONE"       from "TODO"       [2018-06-05 Tue 20:37]
+    :END:
     [2018-06-04 Mon 23:12]
     [[file:~/Documents/git/org/todo.org::*Habits][Habits]]
-    SCHEDULED: <2018-06-04 Mon .+1d>
+    SCHEDULED: <2018-06-06 Wed .+1d>
     :PROPERTIES:
     :STYLE:    habit
     :REPEAT_TO_STATE: TODO
+    :LAST_REPEAT: [2018-06-05 Tue 20:37]
     :END:
 
 * Special Dates
@@ -65,10 +70,12 @@
       - What advice can offer another student who might choose this particular area of service
 *** Math
 **** DONE Daily Homework                                                        :WORK:
-     CLOSED: [2018-06-04 Mon 23:11]
+     CLOSED: [2018-06-05 Tue 23:31]
 ***** DONE Inverse Functions Practice
       CLOSED: [2018-06-04 Mon 23:11]
+***** DONE Instantaneous Rates of Change Practice
+      CLOSED: [2018-06-05 Tue 23:31]
 *** Physics
 **** Assignments                                                                :WORK:
 ***** TODO Circuit Design
-      DEADLINE: <2018-06-08 Fri>
+      DEADLINE: <2018-06-15 Fri>
