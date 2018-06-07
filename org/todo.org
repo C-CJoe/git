@@ -25,15 +25,16 @@
 
 *** TODO Bai Ci Zhan
     :LOGBOOK:
+    - State "DONE"       from "TODO"       [2018-06-06 Wed 20:22]
     - State "DONE"       from "TODO"       [2018-06-05 Tue 20:37]
     :END:
     [2018-06-04 Mon 23:12]
     [[file:~/Documents/git/org/todo.org::*Habits][Habits]]
-    SCHEDULED: <2018-06-06 Wed .+1d>
+    SCHEDULED: <2018-06-07 Thu .+1d>
     :PROPERTIES:
     :STYLE:    habit
     :REPEAT_TO_STATE: TODO
-    :LAST_REPEAT: [2018-06-05 Tue 20:37]
+    :LAST_REPEAT: [2018-06-06 Wed 20:22]
     :END:
 
 * Special Dates
@@ -49,7 +50,7 @@
 *** Religion
 **** TODO COEXIST                                                               :WORK:
      DEADLINE: <2018-06-15 Fri>
-***** TODO Kosher cheese promotional advertisement
+***** NEXT Kosher cheese promotional advertisement
 ***** TODO Aboriginal artist interpretation
 ***** TODO Judaism model
 ***** TODO Two songs/videos representing Christianity key teachings
@@ -74,7 +75,10 @@
 ***** DONE Inverse Functions Practice
       CLOSED: [2018-06-04 Mon 23:11]
 ***** DONE Instantaneous Rates of Change Practice
+      [[file:~/Documents/St.%20Paul%202017-2018/Math/(Joe's)%20Files,%20Homework%20etc/Instantaneous%20Rates%20of%20Change%20Practice.tex][Attachment]]
       CLOSED: [2018-06-05 Tue 23:31]
+***** DONE Instantaneous and Average Rates of Change Practice
+      CLOSED: [2018-06-06 Wed 16:45]
 *** Physics
 **** Assignments                                                                :WORK:
 ***** TODO Circuit Design
