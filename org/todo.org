@@ -3,7 +3,15 @@
 * Life
 ** Habits
 *** TODO Go to bed earlier
+    SCHEDULED: <2018-06-11 Mon 23:00 .+1d>
+    :PROPERTIES:
+    :STYLE:    habit
+    :REPEAT_TO_STATE: TODO
+    :LAST_REPEAT: [2018-06-10 Sun 23:48]
+    :END:
     :LOGBOOK:
+    - State "DONE"       from "TODO"       [2018-06-10 Sun 23:48]
+    - State "DONE"       from "TODO"       [2018-06-09 Sat 23:59]
     - State "DONE"       from "TODO"       [2018-06-08 Fri 23:27]
     - State "DONE"       from "TODO"       [2018-06-06 Wed 23:51]
     - State "DONE"       from "TODO"       [2018-06-05 Tue 23:44]
@@ -11,30 +19,40 @@
     :END:
     [2018-06-02 Sat 18:18]
     [[file:~/Documents/git/org/todo.org::*Habits][Habits]]
-    SCHEDULED: <2018-06-09 Sat 23:00 .+1d>
+
+*** TODO Exercise
+    SCHEDULED: <2018-06-17 Sun .+1d>
     :PROPERTIES:
     :STYLE:    habit
     :REPEAT_TO_STATE: TODO
-    :LAST_REPEAT: [2018-06-08 Fri 23:27]
+    :LAST_REPEAT: [2018-06-16 Sat 23:28]
     :END:
-
-*** TODO Exercise
     :LOGBOOK:
+    - State "DONE"       from "TODO"       [2018-06-16 Sat 23:28]
+    - State "DONE"       from "TODO"       [2018-06-10 Sun 17:52]
+    - State "DONE"       from "TODO"       [2018-06-09 Sat 22:33]
     - State "DONE"       from "TODO"       [2018-06-08 Fri 21:04]
     - State "DONE"       from "TODO"       [2018-06-07 Thu 21:28]
     - State "DONE"       from "TODO"       [2018-06-06 Wed 22:42]
     :END:
     [2018-06-04 Mon 21:38]
     [[file:~/Documents/git/org/todo.org::*Habits][Habits]]
-    SCHEDULED: <2018-06-09 Sat .+1d>
+
+*** TODO Bai Ci Zhan
+    SCHEDULED: <2018-06-24 Sun .+1d>
     :PROPERTIES:
     :STYLE:    habit
     :REPEAT_TO_STATE: TODO
-    :LAST_REPEAT: [2018-06-08 Fri 23:04]
+    :LAST_REPEAT: [2018-06-23 Sat 22:59]
     :END:
-
-*** TODO Bai Ci Zhan
     :LOGBOOK:
+    - State "DONE"       from "TODO"       [2018-06-23 Sat 22:59]
+    - State "DONE"       from "TODO"       [2018-06-16 Sat 23:52]
+    - State "DONE"       from "TODO"       [2018-06-15 Fri 23:36]
+    - State "DONE"       from "TODO"       [2018-06-14 Thu 23:40]
+    - State "DONE"       from "TODO"       [2018-06-13 Wed 23:59]
+    - State "DONE"       from "TODO"       [2018-06-10 Sun 23:48]
+    - State "DONE"       from "TODO"       [2018-06-09 Sat 22:10]
     - State "DONE"       from "TODO"       [2018-06-08 Fri 23:26]
     - State "DONE"       from "TODO"       [2018-06-08 Fri 00:15]
     - State "DONE"       from "TODO"       [2018-06-06 Wed 20:22]
@@ -42,12 +60,7 @@
     :END:
     [2018-06-04 Mon 23:12]
     [[file:~/Documents/git/org/todo.org::*Habits][Habits]]
-    SCHEDULED: <2018-06-09 Sat .+1d>
-    :PROPERTIES:
-    :STYLE:    habit
-    :REPEAT_TO_STATE: TODO
-    :LAST_REPEAT: [2018-06-08 Fri 23:26]
-    :END:
+
 
 * Special Dates
 ** Birthdays
@@ -60,30 +73,43 @@
 * Study
 ** St. Paul 2017-2018
 *** Religion
-**** TODO COEXIST                                                               :WORK:
-     DEADLINE: <2018-06-15 Fri>
-***** NEXT Kosher cheese promotional advertisement
-***** TODO Aboriginal artist interpretation
-***** TODO Judaism model
-***** TODO Two songs/videos representing Christianity key teachings
-***** TODO Create a Buddhism brochure
-      - Create an illustrated cover with a logo, pictures, or symbols to represent the religion
-      - Research origin & history, sacred writings, beliefs, customs, sacred places, spread---major countries and a map showing them, colourful illustrations
-***** TODO World religion trip reflection
-      - Identify the name of each house of worship attended and discuss the practices used in each
-      - Identify three new pieces of knowledge learned from the trip
-      - Discuss the favourite place of worship and explain why
-      - Explain how the trip caused you to examine life, religion, and community and country
-***** TODO Christian community service reflection
-      - Name of the organizations volunteered
-      - The frequency of the hours obtained
-      - The duties performed
-      - The most significant experience, explain
-      - Discuss how can apply the golden rule, "Do unto other as they have done to you" to life and other community service experience
-      - What advice can offer another student who might choose this particular area of service
+**** Assignments                                                                :WORK:
+***** DONE COEXIST
+      CLOSED: [2018-06-17 Sun 22:58] DEADLINE: <2018-06-18 Mon>
+****** DONE Kosher cheese promotional advertisement
+       CLOSED: [2018-06-09 Sat 19:22]
+       - ingredients and the equipments used are kosher
+       - made under special rabbinical supervision
+****** DONE Aboriginal artist interpretation
+       CLOSED: [2018-06-09 Sat 21:39]
+       - by Bill Reid
+       - in Haida culture, the Raven is the most powerful of mythical creatures.
+       - the sculpture of /The Raven and the First Men/ depicts the story of human creation.
+       - one day the raven found a group of small human beings under a clamshell and coaxed them to leave the sheel to join him in his wonderful world.  some of the humans were hesitant at first, but they were overcome by curiosity and eventually emerged from the partly opne giant clamshell to become the first Haida.
+****** DONE Judaism model
+       CLOSED: [2018-06-13 Wed 20:26]
+****** DONE Two songs/videos representing Christianity key teachings
+       CLOSED: [2018-06-10 Sun 14:54]
+****** DONE Create a Buddhism brochure
+       CLOSED: [2018-06-17 Sun 22:58]
+       - Create an illustrated cover with a logo, pictures, or symbols to represent the religion
+       - Research origin & history, sacred writings, beliefs, customs, sacred places, spread---major countries and a map showing them, colourful illustrations
+****** DONE World religion trip reflection
+       CLOSED: [2018-06-14 Thu 00:58]
+       - Identify the name of each house of worship attended and discuss the practices used in each
+       - Identify three new pieces of knowledge learned from the trip
+       - Discuss the favourite and least favourite place of worship and explain why
+       - Explain how the trip caused you to examine life, religion, and community and country
+****** DONE Christian community service reflection
+       CLOSED: [2018-06-14 Thu 22:21]
+       - Name of the organizations volunteered
+       - The frequency of the hours obtained
+       - The duties performed
+       - The most significant experience, explain
+       - Discuss how can apply the golden rule, "Do unto other as they have done to you" to life and other community service experience
+       - What advice can offer another student who might choose this particular area of service
 *** Math
-**** DONE Daily Homework                                                        :WORK:
-     CLOSED: [2018-06-05 Tue 23:31]
+**** Daily Homework                                                             :WORK:
 ***** DONE Inverse Functions Practice
       CLOSED: [2018-06-04 Mon 23:11]
 ***** DONE Instantaneous Rates of Change Practice
@@ -95,13 +121,12 @@
       CLOSED: [2018-06-08 Fri 00:07]
 *** Physics
 **** Assignments                                                                :WORK:
-***** TODO Circuit Design
-      DEADLINE: <2018-06-15 Fri>
-** Summer 2018
+***** DONE Circuit Design
+      CLOSED: [2018-06-16 Sat 22:23] DEADLINE: <2018-06-18 Mon>
+** St. Paul 2018-2019
 *** English
-**** TODO Reading and essay practice
-     SCHEDULED: <2018-07-01 Sun>
-**** TODO Programming practice
-     SCHEDULED: <2018-07-01 Sun>
-**** TODO G1 license
-     SCHEDULED: <2018-07-01 Sun>
+**** Assignments                                                                :WORK:
+***** TODO Hamlet Soliloquy Analysis
+      DEADLINE: <2018-10-02 Tue>
+****** NEXT Translation, Breakdown, Initial Ideas
+****** TODO Thesis Statement and MoD
